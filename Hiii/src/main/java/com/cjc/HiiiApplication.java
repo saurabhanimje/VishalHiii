@@ -6,8 +6,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class HiiiApplication {
 
-	public static void main(String[] args) {
-		System.out.println("hiii");
+	public static void main(String[] args)
+	{
+		System.out.println("hiii Gauri");
 		SpringApplication.run(HiiiApplication.class, args);
 	}
 
